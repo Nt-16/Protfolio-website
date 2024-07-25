@@ -411,4 +411,21 @@ article .icon{
 
  .contact-icon{
     cursor: default;
+    
+ }
+
+ .email-icon{
+    height: 2.5rem;;
+ }
+
+ /* footer section */
+
+ .fotter{
+    height: 26vh;
+    margin: 0.1rem;
+
+ }
+
+ fotter p{
+    text-align: center;
  }
