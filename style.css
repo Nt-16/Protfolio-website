@@ -278,6 +278,7 @@ a:hover{
 
 .about-container, .about-detail-container{
     display: flex;
+    flex-wrap: wrap;
 }
 
 .about-pic {
@@ -328,6 +329,7 @@ a:hover{
     display: flex;
     justify-content: center;
     flex-direction: column;
+    
 }
 
 .article-container{
@@ -355,6 +357,8 @@ article .icon{
 
  #projects{
     position: relative;
+    
+   
  }
 
  .color-container{
@@ -365,8 +369,8 @@ article .icon{
 
  .project-img{
     border-radius: 2rem;
-    width: 80%;
-    height:80%;
+    width: 400px;
+    height:375px;
 
  }
 
@@ -382,6 +386,7 @@ article .icon{
     justify-content: center;
     flex-direction: column;
     height: 70vh;
+    overflow: visible;
 
  }
 
