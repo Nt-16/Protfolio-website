@@ -369,8 +369,8 @@ article .icon{
 
  .project-img{
     border-radius: 2rem;
-    width: 400px;
-    height:375px;
+    width: 80%;
+    height:80%;
 
  }
 
@@ -381,7 +381,7 @@ article .icon{
 
  /* CONTACT  SECTION*/
 
- #contact{
+ #contacts{
     display: flex;
     justify-content: center;
     flex-direction: column;
